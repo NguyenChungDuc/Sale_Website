@@ -1,0 +1,6 @@
+- Name : Sale Website
+- Call Api : https://dummyjson.com
+- Client : React Js
+- Support Library : React-Router-Dom
+- UI : Antd
+- Run project Client : yarn dev - npm run dev
